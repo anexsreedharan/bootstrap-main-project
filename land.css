@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.background
+{
+    width: 100%;
+    height:max-content;
+    background-image: url(images/bg1.jpg);
+    background-size :100%;
+    background-position: center;
+}
